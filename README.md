@@ -6,6 +6,7 @@
 * WordPress 4.9.6
 * PHP 7.2.x
 * 2018/5
+* Ver 1.0
 
 ## インストール方法
 * FTPにて、/wp-content/plugin/ に入れる
