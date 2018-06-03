@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP 496 GDPR Killer
-Plugin URI: https://bcchloe.jp
+Plugin URI: https://github.com/ifNoob/WP496-GDPR-Killer
 Description: EUデータ保護法GDPR 個人データのエクスポート・個人データの削除・プライバシー Killer
 Author: BcChloe
 Version: 1.0
