@@ -12,13 +12,6 @@
 # == Description ==
 * WordPress 4.9.6 から導入された、GDPR部を削除する 
 
-# == Privacy Notices ==
-* With the default configuration, this plugin, in itself, does not:
-* track users by stealth;
-* write any user personal data to the database;
-* send any data to external servers;
-* use cookies.
-
 # == Docs & Support ==
 * https://bcchloe.jp
 
@@ -44,6 +37,13 @@
 * Upgrade notice
 * = 1.0 =
 * It is Initial release
+
+# == Privacy Notices ==
+* With the default configuration, this plugin, in itself, does not:
+* track users by stealth;
+* write any user personal data to the database;
+* send any data to external servers;
+* use cookies.
 
 # 注意事項 このプラグイン有効後における個人情報取り扱いには配布者に対し何ら責任は問われません。
 # 免責事項: このプラグインの作成者は法的な背景を持っていません。
